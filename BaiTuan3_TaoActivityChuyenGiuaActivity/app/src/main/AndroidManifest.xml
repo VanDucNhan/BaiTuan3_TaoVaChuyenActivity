@@ -13,6 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BaiTuan3_TaoActivityChuyenGiuaActivity"
         tools:targetApi="31">
+        <activity android:name=".ChildActivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
